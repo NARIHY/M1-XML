@@ -1,0 +1,23 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+         xmlns:exercice="http://is2M.mg/schema#">
+<rdf:Information rdf:about="http://is2M.mg/rr/livre1.html">
+    <exercice:auteur rdf:resource="http://ns.is2M.mg/PierreLemaitre#me"/>
+    <exercice:livre>Un avenir radieux</exercice:livre>
+</rdf:Information>
+
+<rdf:Information rdf:about="http://is2M.mg/rr/livre2.html">
+    <exercice:auteur rdf:resource="http://ns.is2M.mg/VanessaSpringora#me"/>
+    <exercice:livre>Patronyme</exercice:livre>
+ </rdf:Information>
+
+<rdf:Information rdf:about="http://is2M.mg/rr/livre3.html">
+    <exercice:auteur rdf:resource="http://ns.is2M.mg/LeïlaSlimani#me"/>
+    <exercice:livre>Le pays des autres Tome 3 : Jemporterailefeu</exercice:livre>
+ </rdf:Information>
+
+<rdf:Information rdf:about="http://is2M.mg/rr/livre4.html">
+    <exercice:auteur rdf:resource="http://ns.is2M.mg/LisaGardner#me"/>
+    <exercice:livre>Dernière Soirée</exercice:livre>
+ </rdf:Information>
+
+</rdf:RDF>

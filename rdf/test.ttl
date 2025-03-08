@@ -1,0 +1,19 @@
+@prefix ex: <http://example.org/> .
+
+ex:Jean ex:travailleChez ex:EntrepriseX .
+ex:Jean ex:age 30 .
+
+ex:Marie ex:travailleChez ex:EntrepriseY .
+ex:Marie ex:age 28 .
+
+ex:Njaka ex:travailleChez ex:EntrepriseX .
+ex:Njaka ex:age 35 .
+
+ex:Fano ex:travailleChez ex:EntrepriseZ .
+ex:Fano ex:age 26 .
+
+ex:Luc ex:travailleChez ex:EntrepriseY .
+ex:Luc ex:age 40 .
+
+ex:Andry ex:travailleChez ex:EntrepriseX .
+ex:Andry ex:age 29 .
