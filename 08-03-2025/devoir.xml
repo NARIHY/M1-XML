@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <book category="fiction">
+        <title lang="fr">Le guide du voyageur galactique</title>
+        <author>Douglas Adams</author>
+        <year>1979</year>
+        <price>8.99 $</price>
+    </book>
+    <book category="fiction">
+        <title lang="en">Dune</title>
+        <author>Franck Herbert</author>
+        <year>1965</year>
+        <price>12.50 $</price>
+    </book>
+    <book category="technologie">
+        <title lang="fr"> Code propre </title>
+        <author>Robert C. Martin</author>
+        <year>2008</year>
+        <price>35.99 $</price>
+    </book>
+    <book category="technologie">
+        <title lang="fr">Java efficace</title>
+        <author>Joshua Bloch</author>
+        <year>2001</year>
+        <price>32.00 $</price>
+    </book>
+</catalog>
+
+
